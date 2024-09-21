@@ -113,6 +113,7 @@ if __name__ == "__main__":
         print("No results found for the query.")
 ```
 ### Output:
+![Screenshot 2024-09-21 143835](https://github.com/user-attachments/assets/af37f0ac-5cd5-4a0d-a9a5-1f281f86a343)
 
 ### Result:
 
