@@ -1,4 +1,6 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
+## Name:Kamalesh S
+## Reg_No:21223040083
 ### DATE: 21-09-2024
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
